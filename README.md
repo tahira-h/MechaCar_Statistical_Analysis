@@ -1,6 +1,8 @@
 ### MechaCar_Statistical_Analysis
 
-## Linear Regression to Predict MPG
+Linear Regression to Predict MPG
+
+LINEAR REGRESSION TO PREDICT MPG
 
 There are not any variables/coefficients providing a non-random amount of variance to the mpg values in the dataset. Each dependent value is determined by random chance and error. Therefore, the linear model is a flat line and the slope is not zero. 
 
