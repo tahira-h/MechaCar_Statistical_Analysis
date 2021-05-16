@@ -21,6 +21,27 @@ According to the lot_summary, the variance of Lot 1 (0.98 PSI) and Lot 2 (7.47 P
 
 	-- IMAGE HERE --
 
+T-TESTS ON SUSPENSION COILS
+
+In this study, an R-Script is written to create a t-test() function to determine if the PSI across all manufacturing lots are statistically different from the population mean of 
+1,500 PSI.
+
+First, the t-test() function is created for a t-test to compare all manufacturing lots against the population mean 1,500 PSI as shown below. Lastly, a new t-test() function is created for three t-tests for manufacturing_lot 1, 2, and 3. All three t-tests compare all 3 lots against the population mean of 1,500 PSI.
+
+	-- IMAGE HERE --
+	
+These results provides a summarized conclusion that Lot 1 has a mean of 1500, and a p-value of 1. There is not a difference between Lot 1's mean and the population mean of 1,500 PSI as shown in the image below.
+
+	-- IMAGE HERE --
+
+Lot 2 has a mean of 1500.02, and a p-value of 0.6072 (0.61 PSI). There is not a difference between Lot 2's mean and the population mean of 1,500 PSI as shown in the image below.
+
+	-- IMAGE HERE --
+	
+In contrast, Lot 3 has a mean of 1496.14 which is lower than 1,500 PSI. The p-value is 0.04168(0.04 PSI), and lower than 0.05. There is not a difference between Lot 2's mean and the population mean as shown in the image below.  
+	
+	-- IMAGE HERE --	
+
 
 
 
