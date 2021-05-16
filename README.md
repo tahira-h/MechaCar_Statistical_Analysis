@@ -42,6 +42,30 @@ In contrast, Lot 3 has a mean of 1496.14 which is lower than 1,500 PSI. The p-va
 	
 	-- IMAGE HERE --	
 
+MechaCar VS COMPETITION
+
+Four metrics of interest to a consumer that are going to be tested are: 
+
+* Cost: Dependent Variable
+* MPG(Miles Per Gallon) : Independent Variable
+* Engine (Hybrid or Gasoline): Independent Variable 
+* Safety Rating: Independent Variable
+
+What is the null hypothesis or alternative hypothesis?
+	
+* Null Hypothesis (Ho): The MechaCar safety rating is incorrect based on the metrics of interest to a consumer. 
+
+* Alternative Hypothesis (Ha): The MechaCar safety rating is correct based on the metrics of interest to a consumer. 
+
+The statistical test used to test the hypothesis would be a one-sample t-test. This test will determine if the linear model predicts the safety rating of MechaCar prototypes effectively, and what is the difference between the MechaCar's engine in contrast to the competition. 
+
+Data needed to run the statistical test is the t.test() function and its subset() argument to determine if MechaCar's engine is statistically different from the competition.
+
+
+
+
+
+
 
 
 
