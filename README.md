@@ -17,7 +17,7 @@ According to the total_summary, the variance of the suspension coils is 62.29356
 
 	-- IMAGE HERE --		
 
-According to the lot_summary, the variance of Lot 1 (0.98 PSI) and Lot 2 (7.47 PSI) meet the suspension coils requirement of not exceeding 100 PSI. In contrast, Lot 3 has a larger variance of 170.2861224 or (170.29 PSI). As shown in the image below, Lot 3 is negatively effecting the variance of the suspension coils to not exceed 100 pounds PSI per manufacturing lot . 
+According to the lot_summary, the variance of Lot 1 (0.98 PSI) and Lot 2 (7.47 PSI) meet the suspension coils requirement of not exceeding 100 PSI. In contrast, Lot 3 has a larger variance of 170.29 PSI. As shown in the image below, Lot 3 is negatively effecting the variance of the suspension coils to not exceed 100 pounds PSI per manufacturing lot . 
 
 	-- IMAGE HERE --
 
