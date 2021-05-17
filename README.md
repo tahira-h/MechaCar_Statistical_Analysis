@@ -31,7 +31,7 @@ T-TESTS ON SUSPENSION COILS
 In this study, an R-Script is written to create a t-test() function to determine if the PSI across all manufacturing lots are statistically different from the population mean of 
 1,500 PSI.
 
-First, the t-test() function is created for a t-test to compare all manufacturing lots against the population mean 1,500 PSI as shown below. Lastly, a new t-test() function is created for three t-tests for manufacturing_lot 1, 2, and 3. All three t-tests compare all 3 lots against the population mean of 1,500 PSI.
+First, the t-test() function is created for a t-test to compare all manufacturing lots against the population mean 1,500 PSI as shown below. Lastly, a new t-test() function is created for three t-tests for manufacturing_lot 1, 2, and 3. All three t-tests compare all three lots against the population mean of 1,500 PSI.
 
 Open the file containing t_test_population.
 ![t_test_population](/MechaCar_Statistical_Analysis/resources/t_test_population.png)
