@@ -60,7 +60,7 @@ MechaCar VS COMPETITION
 Four metrics of interest to a consumer that are going to be tested are: 
 
 * Cost: Dependent Variable
-* MPG(Miles Per Gallon) : Independent Variable
+* MPG(Miles Per Gallon): Independent Variable
 * Engine (Hybrid or Gasoline): Independent Variable 
 * Safety Rating: Independent Variable
 
