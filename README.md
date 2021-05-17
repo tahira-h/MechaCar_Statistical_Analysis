@@ -10,8 +10,6 @@ Open the file containing Linear_Regression_Prediction.
 ![Linear_Regression_Prediction](/MechaCar_Statistical_Analysis/resources/Linear_Regression_Prediction.png)
 Close the file.
 
-  --IMAGE HERE--
-
 This linear model does predict mpg of MechaCar prototypes effectively. According to the linear regression model, the r-squared value is 0.7085, this is roughly 70.85% of all mpg time predictions to be considered as correct when using the linear model. On average, 70.85% out of 100% is an accurate amount for the linear model to predict the mpg of MechaCar
 prototypes effectively. 
 
@@ -19,11 +17,9 @@ SUMMARY STATISTICS ON SUSPENSION COILS
 
 According to the total_summary, the variance of the suspension coils is 62.29356 or 62.29 per square inch (PSI). As shown in the image below, the variance does not exceed 100 PSI, which is the requirement for the design specifications for the MechaCar suspension coils.  
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
-Close the file.
-
-	-- IMAGE HERE --		
+Open the file containing total_summary.
+![total_summary](/MechaCar_Statistical_Analysis/resources/total_summary.png)
+Close the file.		
 
 According to the lot_summary, the variance of Lot 1 (0.98 PSI) and Lot 2 (7.47 PSI) meet the suspension coils requirement of not exceeding 100 PSI. In contrast, Lot 3 has a larger variance of 170.29 PSI. As shown in the image below, Lot 3 is negatively effecting the variance of the suspension coils to not exceed 100 pounds PSI per manufacturing lot . 
 Open the file containing UFO_1.
