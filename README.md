@@ -51,11 +51,9 @@ Close the file.
 	
 In contrast, Lot 3 has a mean of 1496.14 which is lower than 1,500 PSI. The p-value is 0.04168(0.04 PSI), and lower than 0.05. There is not a difference between Lot 2's mean and the population mean as shown in the image below.  
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
-Close the file.
-
-	-- IMAGE HERE --	
+Open the file containing lot_3_population.
+![lot_3_population](/MechaCar_Statistical_Analysis/resources/lot_3_population.png)
+Close the file.	
 
 MechaCar VS COMPETITION
 
