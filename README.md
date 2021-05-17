@@ -22,11 +22,9 @@ Open the file containing total_summary.
 Close the file.		
 
 According to the lot_summary, the variance of Lot 1 (0.98 PSI) and Lot 2 (7.47 PSI) meet the suspension coils requirement of not exceeding 100 PSI. In contrast, Lot 3 has a larger variance of 170.29 PSI. As shown in the image below, Lot 3 is negatively effecting the variance of the suspension coils to not exceed 100 pounds PSI per manufacturing lot . 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing lot_summary.
+![lot_summary](/MechaCar_Statistical_Analysis/resources/lot_summary.png)
 Close the file.
-
-	-- IMAGE HERE --
 
 T-TESTS ON SUSPENSION COILS
 
