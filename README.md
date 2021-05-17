@@ -36,16 +36,12 @@ First, the t-test() function is created for a t-test to compare all manufacturin
 Open the file containing t_test_population.
 ![t_test_population](/MechaCar_Statistical_Analysis/resources/t_test_population.png)
 Close the file.
-
-	-- IMAGE HERE --
 	
 These results provides a summarized conclusion that Lot 1 has a mean of 1500, and a p-value of 1. There is not a difference between Lot 1's mean and the population mean of 1,500 PSI as shown in the image below.
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing lot_1_population.
+![lot_1_population](/MechaCar_Statistical_Analysis/resources/lot_1_population.png)
 Close the file.
-
-	-- IMAGE HERE --
 
 Lot 2 has a mean of 1500.02, and a p-value of 0.6072 (0.61 PSI). There is not a difference between Lot 2's mean and the population mean of 1,500 PSI as shown in the image below.
 
