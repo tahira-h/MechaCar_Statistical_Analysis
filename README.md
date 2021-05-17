@@ -33,8 +33,8 @@ In this study, an R-Script is written to create a t-test() function to determine
 
 First, the t-test() function is created for a t-test to compare all manufacturing lots against the population mean 1,500 PSI as shown below. Lastly, a new t-test() function is created for three t-tests for manufacturing_lot 1, 2, and 3. All three t-tests compare all 3 lots against the population mean of 1,500 PSI.
 
-Open the file containing UFO_1.
-![UFO_1](/UFOs/static/images/UFO_1.png)
+Open the file containing t_test_population.
+![t_test_population](/MechaCar_Statistical_Analysis/resources/t_test_population.png)
 Close the file.
 
 	-- IMAGE HERE --
